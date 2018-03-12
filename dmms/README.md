@@ -128,7 +128,9 @@ Notes:
 ### Additional resources:
 
 - HP 3456A
-  - [xDevs](https://xdevs.com/fix/hp3456a/)
+  - [xDevs.com](https://xdevs.com/fix/hp3456a/)
+- HP 3457A
+  - [xDevs.com](https://xdevs.com/article/hp3457a/)
 - Keithley 199
   - [Re-engineered digital board](https://www.eevblog.com/forum/repair/keithley-199-digital-board-replacement/)
   - [Replacing 1N4579 ref. zener with LM399](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg265846/#msg265846)
@@ -170,6 +172,9 @@ Notes:
 | Datron | 1072 | | | ![](media/datron-1072.jpg) |
 | Datron | 1081 | | | ![](media/datron-1081.jpg) |
 | Datron | 1082 | | | ![](media/datron-1082.jpg) |
+| HP/Agilent/Keysight | 34420A | | | |
+| Keithley/Tektronix | 2010 | | | |
+| Keithley/Tektronix | 2001 | | | |
 
 ### Range info:
 
@@ -189,4 +194,13 @@ Notes:
 |---|---|---|---|---|
 | Datron | 1271 | | | ![](media/datron-1271.jpg) |
 | Datron | 1281 | | | ![](media/datron-1281.jpg) |
+| HP/Agilent/Keysight | 3458A | | | |
+| Keithley/Tektronix | 2002 | | | |
 
+
+### Additional resources:
+
+- Datron 1281
+  - [xDevs.com](https://xdevs.com/fix/d1281/)
+- HP/Agilent/Keysight 3458A
+  - [xDevs.com](https://xdevs.com/fix/hp3458a/) [second unit](https://xdevs.com/fix/hp3458a_u2/) [third unit](https://xdevs.com/fix/hp3458a_u3/) [tweaks investigation](https://xdevs.com/article/hp3458b/) [4th unit](https://xdevs.com/fix/hp3458a_u4/)
